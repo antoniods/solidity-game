@@ -33,6 +33,7 @@ contract ZombieFactory {
         // start here
         uint randDna = _generateRandomDna(_name);
         _createZombie(_name, randDna);
+        
     }
 
 }
