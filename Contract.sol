@@ -30,10 +30,9 @@ contract ZombieFactory {
     }
 
     function createRandomZombie(string _name) public {
-        // start here
+        // comincia adesso !!!!
         uint randDna = _generateRandomDna(_name);
         _createZombie(_name, randDna);
-        
     }
 
 }
