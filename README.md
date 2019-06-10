@@ -10,4 +10,5 @@ A solidity smart contract for the Ethereum based zombie game.
 - Can be easily pluggable to any standard Crypto Platform as it the Contract works on the ERC721 Standards.
 
 TO DO:
+
 - Web3js integration to utilise the contract, implementation in JS. DONE
