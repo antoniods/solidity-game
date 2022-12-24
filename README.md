@@ -1,4 +1,4 @@
-# crypto-zombies
+# Crypto Zombie, a basic solidity app
 A solidity smart contract for the Ethereum based zombie game.
 
 - Main attraction is the random traits for every new Zombie created via random DNA generation. surprise element when Zombies feeded with cryptokitties.
