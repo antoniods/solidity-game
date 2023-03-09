@@ -11,4 +11,4 @@ A solidity smart contract for the Ethereum based zombie game.
 
 TO DO:
 
-- Web3js integration to utilise the contract, implementation in JS. DONE.
+- Web3js integration to use the contract, implementation in JS. DONE. 
